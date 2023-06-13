@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gnanendra-David
 - 👀 I’m interested in coding and developing
-- 🌱 I’m currently learning python and full stack 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/gnanendrapag/
+- 🌱 I’m currently learning python, full stack and Data Engineering 
+- 📫 Reach me out on LinkedIn ... https://www.linkedin.com/in/gnanendrapag/
 
 <!---
 Gnanendra-David/Gnanendra-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
